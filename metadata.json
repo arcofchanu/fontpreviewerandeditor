@@ -1,0 +1,5 @@
+{
+  "name": "Font Previewer & Styler",
+  "description": "Upload your custom .otf or .ttf font files, preview your text with live customizations like size, color, and spacing, and then copy the styled text as an image to use in any application.",
+  "requestFramePermissions": []
+}
